@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Guilherme Buzinaro, a Software Engineering student at the Federal Institute of Paraná (IFPR).  
 I hold a technical degree in Information Technology integrated with high school.  
-💻 Passionate about Java and always exploring new technologies.
+💻 Always exploring new technologies.
 ###
 
 <div align="center">
